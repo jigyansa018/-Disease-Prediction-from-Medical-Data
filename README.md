@@ -1,5 +1,6 @@
 # Disease-Prediction-from-Medical-Data
-🩺 Breast Cancer Prediction using Machine Learning
+
+### 🩺 Breast Cancer Prediction using Machine Learning
 📌 Project Overview
 This project predicts whether a breast tumor is Benign or Malignant using Machine Learning techniques. The model is trained on the Breast Cancer dataset and uses Logistic Regression for classification.
 The project demonstrates the complete machine learning workflow including:
